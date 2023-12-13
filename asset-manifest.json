@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/sayuran/static/css/main.4aaa1f6c.css",
+    "main.js": "/sayuran/static/js/main.6273085d.js",
+    "static/media/blog1.jpg": "/sayuran/static/media/blog1.07bcc2c6d23195ecd686.jpg",
+    "static/media/hero.jpg": "/sayuran/static/media/hero.debe0e0d9cc07d623b7c.jpg",
+    "static/media/home2.jpg": "/sayuran/static/media/home2.2a05acef1cdff9848d13.jpg",
+    "static/media/broccoli.jpg": "/sayuran/static/media/broccoli.20bd9cddc86b6d82afa8.jpg",
+    "static/media/whyCoose.jpg": "/sayuran/static/media/whyCoose.6860af20387b960dd8f5.jpg",
+    "static/media/cabbage.jpg": "/sayuran/static/media/cabbage.f95e295a3bcfca78f344.jpg",
+    "static/media/peas.jpg": "/sayuran/static/media/peas.c75a2efd52ed18e1d9b3.jpg",
+    "static/media/kubis.jpg": "/sayuran/static/media/kubis.0300e7aa190d7f8f6cea.jpg",
+    "static/media/chinese-broccoli.jpg": "/sayuran/static/media/chinese-broccoli.e6b118fd9b5572fcdac6.jpg",
+    "static/media/about2.jpg": "/sayuran/static/media/about2.c4c806a3eb3669d02aad.jpg",
+    "static/media/homee.png": "/sayuran/static/media/homee.39b0d06821c430c277a4.png",
+    "static/media/home-busket.png": "/sayuran/static/media/home-busket.ee13c28906566a8cb292.png",
+    "static/media/about3.png": "/sayuran/static/media/about3.89665d8e03a57c372497.png",
+    "static/media/hero-right-bg.png": "/sayuran/static/media/hero-right-bg.d3391a89393dd94712f3.png",
+    "static/media/hero-left-bg.png": "/sayuran/static/media/hero-left-bg.edb946c6720d43f411b6.png",
+    "static/media/logo2.png": "/sayuran/static/media/logo2.489b23d648e2c5f022af.png",
+    "static/media/logo.png": "/sayuran/static/media/logo.c6b4b3bccb8b332dc4ec.png",
+    "static/media/vegetable.png": "/sayuran/static/media/vegetable.a24c0f34a7d18169bd19.png",
+    "static/media/award.png": "/sayuran/static/media/award.b6db2e6bb95e06c35c70.png",
+    "static/media/people.png": "/sayuran/static/media/people.c753be32ba8fa10375ca.png",
+    "static/media/card.png": "/sayuran/static/media/card.81c665b2bbba5d44a2c4.png",
+    "index.html": "/sayuran/index.html",
+    "main.4aaa1f6c.css.map": "/sayuran/static/css/main.4aaa1f6c.css.map",
+    "main.6273085d.js.map": "/sayuran/static/js/main.6273085d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aaa1f6c.css",
+    "static/js/main.6273085d.js"
+  ]
+}

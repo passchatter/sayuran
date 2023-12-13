@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sayuran/static/css/main.4aaa1f6c.css",
-    "main.js": "/sayuran/static/js/main.6273085d.js",
+    "main.js": "/sayuran/static/js/main.c589aca6.js",
     "static/media/blog1.jpg": "/sayuran/static/media/blog1.07bcc2c6d23195ecd686.jpg",
     "static/media/hero.jpg": "/sayuran/static/media/hero.debe0e0d9cc07d623b7c.jpg",
     "static/media/home2.jpg": "/sayuran/static/media/home2.2a05acef1cdff9848d13.jpg",
@@ -25,10 +25,10 @@
     "static/media/card.png": "/sayuran/static/media/card.81c665b2bbba5d44a2c4.png",
     "index.html": "/sayuran/index.html",
     "main.4aaa1f6c.css.map": "/sayuran/static/css/main.4aaa1f6c.css.map",
-    "main.6273085d.js.map": "/sayuran/static/js/main.6273085d.js.map"
+    "main.c589aca6.js.map": "/sayuran/static/js/main.c589aca6.js.map"
   },
   "entrypoints": [
     "static/css/main.4aaa1f6c.css",
-    "static/js/main.6273085d.js"
+    "static/js/main.c589aca6.js"
   ]
 }
